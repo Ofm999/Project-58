@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(blue 0%, green 100%);
+
+    text-align: center;
+}
+
+img {
+    width: 250px;
+}
+
+p {
+    color: blue;
+    font-family: 'Teko', sans-serif;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+}
+
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right:10px;
+}
